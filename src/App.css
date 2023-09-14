@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(208, 138, 106);
+}
+
+.header{
+  margin-top: 20px;
+  margin-left: 70px;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.container{
+  background-color: white;
+  margin: auto;
+  max-width: 1300px;
+}
+.clist {
+  display: flex;
+  justify-content: center; /* 중앙 정렬 */
+}
+
+

@@ -1,0 +1,12 @@
+.item-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid black;
+    margin :10px;
+}
+.cost{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
